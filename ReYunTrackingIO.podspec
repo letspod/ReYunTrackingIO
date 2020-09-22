@@ -11,7 +11,7 @@ Pod::Spec.new do |s|
 
   s.platform     = :ios
 
-  s.platform = :ios, "9.0"
+  s.platform = :ios, "8.0"
   
   s.source        = { :git => "https://github.com/reyun-ios/tracking.git", :tag => s.version }
 
